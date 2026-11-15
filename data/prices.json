@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "site_name": "DD Bazar",
+    "last_updated": "২০২৬-১১-১৫ (দুপুর ১:৩০)",
+    "iso_date": "2026-11-15T13:30:00+06:00",
+    "primary_source": "কৃষি বিপণন অধিদপ্তর (DAM) ও টিসিবি (TCB)"
+  },
+  "divisions": {
+    "dhaka": {
+      "name_bn": "ঢাকা বিভাগ",
+      "market_note": "কারওয়ান বাজার, মিরপুর ও যাত্রাবাড়ী গড় দর",
+      "items": [
+        { "id": "broiler", "category": "poultry", "name": "ব্রয়লার মুরগি", "unit": "প্রতি কেজি", "retail": 185, "wholesale": 168, "change": 5 },
+        { "id": "sonali", "category": "poultry", "name": "সোনালি মুরগি", "unit": "প্রতি কেজি", "retail": 290, "wholesale": 265, "change": -10 },
+        { "id": "deshi-chicken", "category": "poultry", "name": "দেশি মুরগি", "unit": "প্রতি কেজি", "retail": 560, "wholesale": 520, "change": 0 },
+        { "id": "farm-egg", "category": "egg", "name": "ফার্মের ডিম (লাল)", "unit": "প্রতি হালি (৪টি)", "retail": 52, "wholesale": 47, "change": -2 },
+        { "id": "farm-egg-dozen", "category": "egg", "name": "ফার্মের ডিম (ডজন)", "unit": "প্রতি ডজন (১২টি)", "retail": 152, "wholesale": 140, "change": -4 },
+        { "id": "duck-egg", "category": "egg", "name": "হাঁসের ডিম", "unit": "প্রতি হালি (৪টি)", "retail": 72, "wholesale": 65, "change": 0 },
+        { "id": "beef", "category": "meat", "name": "গরুর মাংস (হাড়সহ)", "unit": "প্রতি কেজি", "retail": 760, "wholesale": 720, "change": 0 },
+        { "id": "mutton", "category": "meat", "name": "খাসির মাংস", "unit": "প্রতি কেজি", "retail": 1150, "wholesale": 1080, "change": 10 },
+        { "id": "rui", "category": "fish", "name": "রুই মাছ (মাঝারি)", "unit": "প্রতি কেজি", "retail": 340, "wholesale": 295, "change": -10 },
+        { "id": "katla", "category": "fish", "name": "কাতলা মাছ (মাঝারি)", "unit": "প্রতি কেজি", "retail": 360, "wholesale": 310, "change": 5 },
+        { "id": "pangas", "category": "fish", "name": "পাঙ্গাস মাছ", "unit": "প্রতি কেজি", "retail": 200, "wholesale": 170, "change": 0 },
+        { "id": "tilapia", "category": "fish", "name": "তেলাপিয়া মাছ", "unit": "প্রতি কেজি", "retail": 220, "wholesale": 185, "change": 5 },
+        { "id": "hilsha", "category": "fish", "name": "ইলিশ মাছ (৮০০-৯০০ গ্রাম)", "unit": "প্রতি কেজি", "retail": 1450, "wholesale": 1320, "change": -30 }
+      ]
+    },
+    "chattogram": {
+      "name_bn": "চট্টগ্রাম বিভাগ",
+      "market_note": "রিয়াজউদ্দিন বাজার ও পাহাড়তলী গড় দর",
+      "items": [
+        { "id": "broiler", "category": "poultry", "name": "ব্রয়লার মুরগি", "unit": "প্রতি কেজি", "retail": 180, "wholesale": 164, "change": 0 },
+        { "id": "sonali", "category": "poultry", "name": "সোনালি মুরগি", "unit": "প্রতি কেজি", "retail": 285, "wholesale": 260, "change": -5 },
+        { "id": "deshi-chicken", "category": "poultry", "name": "দেশি মুরগি", "unit": "প্রতি কেজি", "retail": 550, "wholesale": 510, "change": 0 },
+        { "id": "farm-egg", "category": "egg", "name": "ফার্মের ডিম (লাল)", "unit": "প্রতি হালি (৪টি)", "retail": 52, "wholesale": 48, "change": 0 },
+        { "id": "farm-egg-dozen", "category": "egg", "name": "ফার্মের ডিম (ডজন)", "unit": "প্রতি ডজন (১২টি)", "retail": 154, "wholesale": 142, "change": 0 },
+        { "id": "duck-egg", "category": "egg", "name": "হাঁসের ডিম", "unit": "প্রতি হালি (৪টি)", "retail": 70, "wholesale": 64, "change": -2 },
+        { "id": "beef", "category": "meat", "name": "গরুর মাংস (হাড়সহ)", "unit": "প্রতি কেজি", "retail": 780, "wholesale": 740, "change": 0 },
+        { "id": "mutton", "category": "meat", "name": "খাসির মাংস", "unit": "প্রতি কেজি", "retail": 1150, "wholesale": 1080, "change": 0 },
+        { "id": "rui", "category": "fish", "name": "রুই মাছ (মাঝারি)", "unit": "প্রতি কেজি", "retail": 330, "wholesale": 285, "change": -5 },
+        { "id": "katla", "category": "fish", "name": "কাতলা মাছ (মাঝারি)", "unit": "প্রতি কেজি", "retail": 350, "wholesale": 300, "change": 0 },
+        { "id": "pangas", "category": "fish", "name": "পাঙ্গাস মাছ", "unit": "প্রতি কেজি", "retail": 195, "wholesale": 165, "change": 0 },
+        { "id": "tilapia", "category": "fish", "name": "তেলাপিয়া মাছ", "unit": "প্রতি কেজি", "retail": 210, "wholesale": 180, "change": 0 },
+        { "id": "hilsha", "category": "fish", "name": "ইলিশ মাছ (৮০০-৯০০ গ্রাম)", "unit": "প্রতি কেজি", "retail": 1380, "wholesale": 1250, "change": -20 }
+      ]
+    },
+    "rajshahi": {
+      "name_bn": "রাজশাহী বিভাগ",
+      "market_note": "সাহেব বাজার ও বিনোদপুর গড় দর",
+      "items": [
+        { "id": "broiler", "category": "poultry", "name": "ব্রয়লার মুরগি", "unit": "প্রতি কেজি", "retail": 175, "wholesale": 160, "change": -5 },
+        { "id": "sonali", "category": "poultry", "name": "সোনালি মুরগি", "unit": "প্রতি কেজি", "retail": 275, "wholesale": 250, "change": -10 },
+        { "id": "deshi-chicken", "category": "poultry", "name": "দেশি মুরগি", "unit": "প্রতি কেজি", "retail": 520, "wholesale": 485, "change": 0 },
+        { "id": "farm-egg", "category": "egg", "name": "ফার্মের ডিম (লাল)", "unit": "প্রতি হালি (৪টি)", "retail": 50, "wholesale": 46, "change": -2 },
+        { "id": "farm-egg-dozen", "category": "egg", "name": "ফার্মের ডিম (ডজন)", "unit": "প্রতি ডজন (১২টি)", "retail": 148, "wholesale": 136, "change": -4 },
+        { "id": "duck-egg", "category": "egg", "name": "হাঁসের ডিম", "unit": "প্রতি হালি (৪টি)", "retail": 68, "wholesale": 62, "change": 0 },
+        { "id": "beef", "category": "meat", "name": "গরুর মাংস (হাড়সহ)", "unit": "প্রতি কেজি", "retail": 730, "wholesale": 695, "change": 0 },
+        { "id": "mutton", "category": "meat", "name": "খাসির মাংস", "unit": "প্রতি কেজি", "retail": 1080, "wholesale": 1020, "change": 0 },
+        { "id": "rui", "category": "fish", "name": "রুই মাছ (মাঝারি)", "unit": "প্রতি কেজি", "retail": 300, "wholesale": 260, "change": -10 },
+        { "id": "katla", "category": "fish", "name": "কাতলা মাছ (মাঝারি)", "unit": "প্রতি কেজি", "retail": 320, "wholesale": 275, "change": -5 },
+        { "id": "pangas", "category": "fish", "name": "পাঙ্গাস মাছ", "unit": "প্রতি কেজি", "retail": 180, "wholesale": 155, "change": 0 },
+        { "id": "tilapia", "category": "fish", "name": "তেলাপিয়া মাছ", "unit": "প্রতি কেজি", "retail": 195, "wholesale": 165, "change": 0 },
+        { "id": "hilsha", "category": "fish", "name": "ইলিশ মাছ (৮০০-৯০০ গ্রাম)", "unit": "প্রতি কেজি", "retail": 1480, "wholesale": 1350, "change": 0 }
+      ]
+    },
+    "khulna": {
+      "name_bn": "খুলনা বিভাগ",
+      "market_note": "বড় বাজার ও সোনাডাঙ্গা গড় দর",
+      "items": [
+        { "id": "broiler", "category": "poultry", "name": "ব্রয়লার মুরগি", "unit": "প্রতি কেজি", "retail": 178, "wholesale": 162, "change": 0 },
+        { "id": "sonali", "category": "poultry", "name": "সোনালি মুরগি", "unit": "প্রতি কেজি", "retail": 280, "wholesale": 255, "change": -5 },
+        { "id": "deshi-chicken", "category": "poultry", "name": "দেশি মুরগি", "unit": "প্রতি কেজি", "retail": 530, "wholesale": 490, "change": 0 },
+        { "id": "farm-egg", "category": "egg", "name": "ফার্মের ডিম (লাল)", "unit": "প্রতি হালি (৪টি)", "retail": 50, "wholesale": 46, "change": 0 },
+        { "id": "farm-egg-dozen", "category": "egg", "name": "ফার্মের ডিম (ডজন)", "unit": "প্রতি ডজন (১২টি)", "retail": 148, "wholesale": 138, "change": 0 },
+        { "id": "duck-egg", "category": "egg", "name": "হাঁসের ডিম", "unit": "প্রতি হালি (৪টি)", "retail": 66, "wholesale": 60, "change": -2 },
+        { "id": "beef", "category": "meat", "name": "গরুর মাংস (হাড়সহ)", "unit": "প্রতি কেজি", "retail": 740, "wholesale": 700, "change": 0 },
+        { "id": "mutton", "category": "meat", "name": "খাসির মাংস", "unit": "প্রতি কেজি", "retail": 1100, "wholesale": 1030, "change": 0 },
+        { "id": "rui", "category": "fish", "name": "রুই মাছ (মাঝারি)", "unit": "প্রতি কেজি", "retail": 310, "wholesale": 270, "change": 0 },
+        { "id": "katla", "category": "fish", "name": "কাতলা মাছ (মাঝারি)", "unit": "প্রতি কেজি", "retail": 330, "wholesale": 285, "change": 0 },
+        { "id": "pangas", "category": "fish", "name": "পাঙ্গাস মাছ", "unit": "প্রতি কেজি", "retail": 185, "wholesale": 160, "change": 0 },
+        { "id": "tilapia", "category": "fish", "name": "তেলাপিয়া মাছ", "unit": "প্রতি কেজি", "retail": 190, "wholesale": 165, "change": -5 },
+        { "id": "hilsha", "category": "fish", "name": "ইলিশ মাছ (৮০০-৯০০ গ্রাম)", "unit": "প্রতি কেজি", "retail": 1400, "wholesale": 1280, "change": -20 }
+      ]
+    },
+    "barishal": {
+      "name_bn": "বরিশাল বিভাগ",
+      "market_note": "পোর্ট রোড ও বাংলাবাজার গড় দর",
+      "items": [
+        { "id": "broiler", "category": "poultry", "name": "ব্রয়লার মুরগি", "unit": "প্রতি কেজি", "retail": 182, "wholesale": 166, "change": 2 },
+        { "id": "sonali", "category": "poultry", "name": "সোনালি মুরগি", "unit": "প্রতি কেজি", "retail": 285, "wholesale": 260, "change": 0 },
+        { "id": "deshi-chicken", "category": "poultry", "name": "দেশি মুরগি", "unit": "প্রতি কেজি", "retail": 520, "wholesale": 480, "change": 0 },
+        { "id": "farm-egg", "category": "egg", "name": "ফার্মের ডিম (লাল)", "unit": "প্রতি হালি (৪টি)", "retail": 52, "wholesale": 48, "change": 0 },
+        { "id": "farm-egg-dozen", "category": "egg", "name": "ফার্মের ডিম (ডজন)", "unit": "প্রতি ডজন (১২টি)", "retail": 152, "wholesale": 142, "change": 0 },
+        { "id": "duck-egg", "category": "egg", "name": "হাঁসের ডিম", "unit": "প্রতি হালি (৪টি)", "retail": 64, "wholesale": 58, "change": 0 },
+        { "id": "beef", "category": "meat", "name": "গরুর মাংস (হাড়সহ)", "unit": "প্রতি কেজি", "retail": 750, "wholesale": 710, "change": 0 },
+        { "id": "mutton", "category": "meat", "name": "খাসির মাংস", "unit": "প্রতি কেজি", "retail": 1100, "wholesale": 1040, "change": 0 },
+        { "id": "rui", "category": "fish", "name": "রুই মাছ (মাঝারি)", "unit": "প্রতি কেজি", "retail": 315, "wholesale": 275, "change": 0 },
+        { "id": "katla", "category": "fish", "name": "কাতলা মাছ (মাঝারি)", "unit": "প্রতি কেজি", "retail": 335, "wholesale": 290, "change": 0 },
+        { "id": "pangas", "category": "fish", "name": "পাঙ্গাস মাছ", "unit": "প্রতি কেজি", "retail": 185, "wholesale": 160, "change": 0 },
+        { "id": "tilapia", "category": "fish", "name": "তেলাপিয়া মাছ", "unit": "প্রতি কেজি", "retail": 195, "wholesale": 168, "change": 0 },
+        { "id": "hilsha", "category": "fish", "name": "ইলিশ মাছ (৮০০-৯০০ গ্রাম)", "unit": "প্রতি কেজি", "retail": 1320, "wholesale": 1200, "change": -30 }
+      ]
+    },
+    "sylhet": {
+      "name_bn": "সিলেট বিভাগ",
+      "market_note": "বন্দরবাজার ও কাজিরবাজার গড় দর",
+      "items": [
+        { "id": "broiler", "category": "poultry", "name": "ব্রয়লার মুরগি", "unit": "প্রতি কেজি", "retail": 185, "wholesale": 168, "change": 5 },
+        { "id": "sonali", "category": "poultry", "name": "সোনালি মুরগি", "unit": "প্রতি কেজি", "retail": 295, "wholesale": 270, "change": 0 },
+        { "id": "deshi-chicken", "category": "poultry", "name": "দেশি মুরগি", "unit": "প্রতি কেজি", "retail": 560, "wholesale": 520, "change": 0 },
+        { "id": "farm-egg", "category": "egg", "name": "ফার্মের ডিম (লাল)", "unit": "প্রতি হালি (৪টি)", "retail": 52, "wholesale": 48, "change": 0 },
+        { "id": "farm-egg-dozen", "category": "egg", "name": "ফার্মের ডিম (ডজন)", "unit": "প্রতি ডজন (১২টি)", "retail": 154, "wholesale": 142, "change": 0 },
+        { "id": "duck-egg", "category": "egg", "name": "হাঁসের ডিম", "unit": "প্রতি হালি (৪টি)", "retail": 70, "wholesale": 64, "change": 0 },
+        { "id": "beef", "category": "meat", "name": "গরুর মাংস (হাড়সহ)", "unit": "প্রতি কেজি", "retail": 760, "wholesale": 720, "change": 0 },
+        { "id": "mutton", "category": "meat", "name": "খাসির মাংস", "unit": "প্রতি কেজি", "retail": 1150, "wholesale": 1080, "change": 0 },
+        { "id": "rui", "category": "fish", "name": "রুই মাছ (মাঝারি)", "unit": "প্রতি কেজি", "retail": 330, "wholesale": 290, "change": 0 },
+        { "id": "katla", "category": "fish", "name": "কাতলা মাছ (মাঝারি)", "unit": "প্রতি কেজি", "retail": 350, "wholesale": 305, "change": 0 },
+        { "id": "pangas", "category": "fish", "name": "পাঙ্গাস মাছ", "unit": "প্রতি কেজি", "retail": 200, "wholesale": 170, "change": 0 },
+        { "id": "tilapia", "category": "fish", "name": "তেলাপিয়া মাছ", "unit": "প্রতি কেজি", "retail": 215, "wholesale": 185, "change": 0 },
+        { "id": "hilsha", "category": "fish", "name": "ইলিশ মাছ (৮০০-৯০০ গ্রাম)", "unit": "প্রতি কেজি", "retail": 1460, "wholesale": 1340, "change": 0 }
+      ]
+    },
+    "rangpur": {
+      "name_bn": "রংপুর বিভাগ",
+      "market_note": "সিটি বাজার ও মাহিগঞ্জ গড় দর",
+      "items": [
+        { "id": "broiler", "category": "poultry", "name": "ব্রয়লার মুরগি", "unit": "প্রতি কেজি", "retail": 172, "wholesale": 156, "change": -3 },
+        { "id": "sonali", "category": "poultry", "name": "সোনালি মুরগি", "unit": "প্রতি কেজি", "retail": 270, "wholesale": 245, "change": -5 },
+        { "id": "deshi-chicken", "category": "poultry", "name": "দেশি মুরগি", "unit": "প্রতি কেজি", "retail": 500, "wholesale": 465, "change": 0 },
+        { "id": "farm-egg", "category": "egg", "name": "ফার্মের ডিম (লাল)", "unit": "প্রতি হালি (৪টি)", "retail": 48, "wholesale": 44, "change": -2 },
+        { "id": "farm-egg-dozen", "category": "egg", "name": "ফার্মের ডিম (ডজন)", "unit": "প্রতি ডজন (১২টি)", "retail": 144, "wholesale": 132, "change": -4 },
+        { "id": "duck-egg", "category": "egg", "name": "হাঁসের ডিম", "unit": "প্রতি হালি (৪টি)", "retail": 66, "wholesale": 60, "change": 0 },
+        { "id": "beef", "category": "meat", "name": "গরুর মাংস (হাড়সহ)", "unit": "প্রতি কেজি", "retail": 720, "wholesale": 685, "change": 0 },
+        { "id": "mutton", "category": "meat", "name": "খাসির মাংস", "unit": "প্রতি কেজি", "retail": 1060, "wholesale": 1000, "change": 0 },
+        { "id": "rui", "category": "fish", "name": "রুই মাছ (মাঝারি)", "unit": "প্রতি কেজি", "retail": 295, "wholesale": 255, "change": -5 },
+        { "id": "katla", "category": "fish", "name": "কাতলা মাছ (মাঝারি)", "unit": "প্রতি কেজি", "retail": 315, "wholesale": 270, "change": 0 },
+        { "id": "pangas", "category": "fish", "name": "পাঙ্গাস মাছ", "unit": "প্রতি কেজি", "retail": 175, "wholesale": 150, "change": 0 },
+        { "id": "tilapia", "category": "fish", "name": "তেলাপিয়া মাছ", "unit": "প্রতি কেজি", "retail": 190, "wholesale": 160, "change": 0 },
+        { "id": "hilsha", "category": "fish", "name": "ইলিশ মাছ (৮০০-৯০০ গ্রাম)", "unit": "প্রতি কেজি", "retail": 1480, "wholesale": 1360, "change": 0 }
+      ]
+    },
+    "mymensingh": {
+      "name_bn": "ময়মনসিংহ বিভাগ",
+      "market_note": "মেছুয়া বাজার ও স্বদেশী বাজার গড় দর",
+      "items": [
+        { "id": "broiler", "category": "poultry", "name": "ব্রয়লার মুরগি", "unit": "প্রতি কেজি", "retail": 176, "wholesale": 160, "change": 0 },
+        { "id": "sonali", "category": "poultry", "name": "সোনালি মুরগি", "unit": "প্রতি কেজি", "retail": 280, "wholesale": 255, "change": -5 },
+        { "id": "deshi-chicken", "category": "poultry", "name": "দেশি মুরগি", "unit": "প্রতি কেজি", "retail": 530, "wholesale": 495, "change": 0 },
+        { "id": "farm-egg", "category": "egg", "name": "ফার্মের ডিম (লাল)", "unit": "প্রতি হালি (৪টি)", "retail": 50, "wholesale": 46, "change": 0 },
+        { "id": "farm-egg-dozen", "category": "egg", "name": "ফার্মের ডিম (ডজন)", "unit": "প্রতি ডজন (১২টি)", "retail": 148, "wholesale": 138, "change": 0 },
+        { "id": "duck-egg", "category": "egg", "name": "হাঁসের ডিম", "unit": "প্রতি হালি (৪টি)", "retail": 68, "wholesale": 62, "change": 0 },
+        { "id": "beef", "category": "meat", "name": "গরুর মাংস (হাড়সহ)", "unit": "প্রতি কেজি", "retail": 740, "wholesale": 705, "change": 0 },
+        { "id": "mutton", "category": "meat", "name": "খাসির মাংস", "unit": "প্রতি কেজি", "retail": 1100, "wholesale": 1030, "change": 0 },
+        { "id": "rui", "category": "fish", "name": "রুই মাছ (মাঝারি)", "unit": "প্রতি কেজি", "retail": 290, "wholesale": 250, "change": -10 },
+        { "id": "katla", "category": "fish", "name": "কাতলা মাছ (মাঝারি)", "unit": "প্রতি কেজি", "retail": 310, "wholesale": 265, "change": -5 },
+        { "id": "pangas", "category": "fish", "name": "পাঙ্গাস মাছ", "unit": "প্রতি কেজি", "retail": 170, "wholesale": 145, "change": 0 },
+        { "id": "tilapia", "category": "fish", "name": "তেলাপিয়া মাছ", "unit": "প্রতি কেজি", "retail": 185, "wholesale": 155, "change": 0 },
+        { "id": "hilsha", "category": "fish", "name": "ইলিশ মাছ (৮০০-৯০০ গ্রাম)", "unit": "প্রতি কেজি", "retail": 1440, "wholesale": 1320, "change": 0 }
+      ]
+    }
+  }
+}
